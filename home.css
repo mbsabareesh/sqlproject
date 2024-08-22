@@ -1,0 +1,37 @@
+*{
+    /* width: 100%; */
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.header{
+    height: 50px;
+    width: 100%;
+    border-radius: 2px;
+    background-color: aquamarine;
+}
+.header h1{
+    color: #000;
+    margin-left: 40%;
+    padding-top: 10px;
+}
+#qaone{
+    display: flex;
+    flex-direction: column;
+}
+#qaone p{
+    color: #fff;
+    margin-left: 25%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.qaone img{
+    width: 900px;
+    height: 500px;
+    margin-left: 20%;
+}
