@@ -41,3 +41,23 @@ body{
     height: 500px;
     margin-left: 15%;
 }
+footer iframe{
+    width: 900px;
+    height: 500px;
+    margin-left: 150px;
+}
+footer p{
+    color: #fff;
+    margin-left: 41%;
+    margin-bottom: 20px;
+}
+footer h4{
+    color: #fff;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+h1{
+    color: #fff;
+    margin-left: 40%;
+    margin-top: 20px;
+}
